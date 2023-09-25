@@ -28,4 +28,4 @@ Telebot,time,sched modules
 4. Search sam_9 bot schedule Your tasks
 
  
-5. For Detailed explanation I have provided Documentation So that its easy tounderstand the whole process.
+5. For Detailed explanation I have provided Documentation So that its easy to understand the whole process.
